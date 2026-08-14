@@ -7,7 +7,7 @@ An interactive Power BI dashboard analyzing university student performance — b
 
 ## 📊 Preview
 <!-- add a screenshot or GIF of the dashboard here -->
-![Students Performance Dashboard Preview](studentPerformanceDashboard.png)
+![Students Performance Dashboard Preview](studentPerformance.png)
 ![Lecturers Performance Preview](lecturerPerformance.png)
 ![Star Schema Relationship Set Up Preview](starScheme.png)
 
